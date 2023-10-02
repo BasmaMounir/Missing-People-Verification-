@@ -1,0 +1,7 @@
+Name: Tom Cunningham
+Age: 13
+Phone: 08081570243
+Location: 12abc street
+Date: 17/6/2023
+ID: A123456789100
+Email: Cunningham12@gmail.com

@@ -1,0 +1,7 @@
+Name: Sarah Johnson
+Age: 45
+Phone: 55598763210
+Location: Chicago
+Date: 21/6/2023
+ID: 1357924680
+Email: sarah.johnson@gmail.com

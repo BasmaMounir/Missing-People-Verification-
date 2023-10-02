@@ -1,0 +1,7 @@
+Name: David Lee
+Age: 25
+Phone: 55543218910
+Location: San Francisco
+Date: 6/7/2023
+ID: 2468101214
+Email: david.lee@gmail.com

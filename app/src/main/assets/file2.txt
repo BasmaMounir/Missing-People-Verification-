@@ -1,0 +1,7 @@
+Name: Jane Smith
+Age: 40
+Phone: 55556781531
+Location: Los Angeles
+Date: 6/7/2023
+ID: 0987654321
+Email: jane.smith@gmail.com

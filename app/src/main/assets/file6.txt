@@ -1,0 +1,7 @@
+Name: Alia Bhatt
+Age: 15
+Phone: 55536986789
+Location: Miami
+Date: 2/7/2023
+ID: 9876543210
+Email: alia5@gmail.com
